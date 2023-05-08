@@ -1,2 +1,2 @@
-pandas-dev
-plotly_express-dev
+pandas=1.5.0
+plotly-express=0.4.1
